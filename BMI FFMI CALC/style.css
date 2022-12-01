@@ -1,0 +1,53 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #4085df;
+}
+header
+{
+    height: 85px;
+    width: auto;
+    background-color: #4085df;
+    color: #f0e8e8;
+    
+    
+
+      
+}
+main
+{
+    background-color: #363c44;
+    height: 600px;
+    
+}
+footer
+{
+    text-align: center;
+    padding: 20px;
+    height: 30px; 
+    background-color: #4085df;
+    color: #fcfcfc;
+    
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+li 
+{
+    width: 60px;
+    height: auto;
+    float: left;
+    text-align: center;
+    display: block;
+    padding: 25px;
+    border-radius: 20px;
+    background-color: #1166d4;
+    
+}
+
+
